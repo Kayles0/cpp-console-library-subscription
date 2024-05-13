@@ -1,1 +1,0 @@
-# cpp-console-library-subscription
